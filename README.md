@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [siddhantjha317.herokuapp.com](siddhantjha317.herokuapp.com)
+- 👨‍💻 All of my projects are available at [siddhantjha317.herokuapp.com](https://siddhantjha317.herokuapp.com)
 
-- 📝 I regularly write articles on [siddhantjha.substack.com](siddhantjha.substack.com)
+- 📝 I regularly write articles on [siddhantjha.substack.com](https://siddhantjha.substack.com)
 
 - 💬 Ask me about **Tensorflow,scikit-learn**
 
 - 📫 How to reach me **siddhantjha317@gmail.com**
 
-- 📄 Know about my experiences [siddhantjha317.herokuapp.com](siddhantjha317.herokuapp.com)
+- 📄 Know about my experiences [siddhantjha317.herokuapp.com](https://siddhantjha317.herokuapp.com)
 
 - ⚡ Fun fact **I speak 3 languages**
 
