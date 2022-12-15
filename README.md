@@ -15,21 +15,19 @@
 
 - 🤝 I’m looking for help with **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [siddhantjha317.herokuapp.com](https://siddhantjha317.herokuapp.com)
+- 👨‍💻 All of my projects are available at [siddhantjha317.github.io](https://siddhantjha317.github.io)
 
-- 📝 I regularly write articles on [siddhantjha.substack.com](https://siddhantjha.substack.com)
+- 📝 I regularly write articles on [unsocialstatistician.substack.com](https://unsocialstatistician.substack.com)
 
 - 💬 Ask me about **Tensorflow,scikit-learn**
 
 - 📫 How to reach me **siddhantjha317@gmail.com**
 
-- 📄 Know about my experiences [siddhantjha317.herokuapp.com](https://siddhantjha317.herokuapp.com)
-
 - ⚡ Fun fact **I speak 3 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/unsocial_sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unsocial_sid" height="30" width="40" /></a>
+<a href="https://twitter.com/StatisticalDork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unsocial_sid" height="30" width="40" /></a>
 <a href="https://kaggle.com/proteanox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="proteanox" height="30" width="40" /></a>
 </p>
 
