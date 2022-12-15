@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantjha317" alt="siddhantjha317" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/unsocial_sid" target="blank"><img src="https://img.shields.io/twitter/follow/unsocial_sid?logo=twitter&style=for-the-badge" alt="unsocial_sid" /></a> </p>
+<p align="left"> <a href="https://twitter.com/StatisticalDork" target="blank"><img src="https://img.shields.io/twitter/follow/StatisticalDork?logo=twitter&style=for-the-badge" alt="@StatisticalDork" /></a> </p>
 
 - 🔭 I’m currently working on **Deep Learning Paper Implementation**
 
