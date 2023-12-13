@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant</h1>
-<h3 align="center">An aspiring Data Scientist from India(Based in Singapore)</h3>
+<h3 align="center">Statistician by training , Data Engineer by profession</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantjha317&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantjha317" /> </p>
 
