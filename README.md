@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/StatisticalDork" target="blank"><img src="https://img.shields.io/twitter/follow/StatisticalDork?logo=twitter&style=for-the-badge" alt="@StatisticalDork" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning Paper Implementation**
+- 🔭 I’m currently working on **Hierarchical Schema Querying Algorithms**
 
-- 🌱 I’m currently learning **Scala and Transformers**
+- 🌱 I’m currently learning **Semantic Extraction**
 
 - 👯 I’m looking to collaborate on **ML integration**
 
